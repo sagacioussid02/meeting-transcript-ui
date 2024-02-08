@@ -1,0 +1,52 @@
+.main-heading {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.section-heading {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: #f0f0f0; /* Light gray background */
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.insights-heading {
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #e0e0e0; /* Lighter gray background */
+  padding: 5px;
+  margin-top: 10px;
+}
+
+.todos-heading {
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #e0e0e0; /* Lighter gray background */
+  padding: 5px;
+  margin-top: 10px;
+}
+
+.content-item {
+  font-size: 16px;
+  margin-left: 20px;
+}
+
+.meeting-notes-container {
+  margin: 20px;
+}
+
+.center-container {
+  text-align: center;
+}
+
+.file-upload-section {
+  margin-top: 20px;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+  
